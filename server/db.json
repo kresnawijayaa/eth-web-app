@@ -1,0 +1,212 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "date": "2024-06-20 09:11:15.463",
+      "name": "Neuralink Cat",
+      "symbol": "NEURACAT",
+      "contract": "0x7b6ff728fd4a47e6fb73d0c4c23488eedd8c6707",
+      "checkSum": "0x0929tufdaa4",
+      "stats": [
+        "Socials",
+        "Live",
+        "RenounceOwnership"
+      ]
+    },
+    {
+      "id": "2",
+      "date": "2024-06-19 16:11:15.463",
+      "name": "🎖️Lucky Coin",
+      "symbol": "🎖️Lucky Coin",
+      "contract": "0x9bf9055c453051ae20d587025590fcd045e355e1",
+      "checkSum": "0xf35atufb67a",
+      "stats": [
+        "RenounceOwnership"
+      ]
+    },
+    {
+      "id": "3",
+      "date": "2024-06-18 09:11:15.463",
+      "name": "$Trump x.com",
+      "symbol": "xTrump",
+      "contract": "0x72fbbf41d834a65a9a7350db054c681431ffe513",
+      "checkSum": "0x920atuf9828",
+      "stats": [
+        "Socials",
+        "Live"
+      ]
+    },
+    {
+      "id": "4",
+      "date": "2024-06-15 09:11:15.463",
+      "name": "EURO🏆",
+      "symbol": "EURO🏆",
+      "contract": "0x69420ddf6c710bcbca7c88c33f2bdcd250f61ed7",
+      "checkSum": "0x612ftuf1c3f",
+      "stats": [
+        "Socials"
+      ]
+    }
+  ],
+  "details": [
+    {
+      "id": "1",
+      "date": "2024-06-20 09:11:15.463",
+      "name": "Neuralink Cat",
+      "symbol": "NEURACAT",
+      "contract": "0x7b6ff728fd4a47e6fb73d0c4c23488eedd8c6707",
+      "checkSum": "0x0929tufdaa4",
+      "stats": [
+        "Socials",
+        "Live",
+        "RenounceOwnership"
+      ],
+      "total": "84600000000",
+      "decimal": "18",
+      "method": "Tier 1",
+      "methodId": "Tier 1",
+      "maxTx": "0x0929tufdaa4",
+      "maxTxPercent": "89.98",
+      "owner": "0x7b6ff728fd4a47e6fb73d0c4c23488eedd8c6707",
+      "maxWallet": "38059566017",
+      "maxWalletPercent": "89.98",
+      "wallet": "0.095754 ETH",
+      "created": "2024-06-25 19:11:15.463",
+      "from": "0x0929tufdaa4"
+    },
+    {
+      "id": "2",
+      "date": "2024-06-19 16:11:15.463",
+      "name": "🎖️Lucky Coin",
+      "symbol": "🎖️Lucky Coin",
+      "contract": "0x9bf9055c453051ae20d587025590fcd045e355e1",
+      "checkSum": "0xf35atufb67a",
+      "stats": [
+        "RenounceOwnership"
+      ],
+      "total": "84600000000",
+      "decimal": "18",
+      "method": "Tier 1",
+      "methodId": "Tier 1",
+      "maxTx": "0x0929tufdaa4",
+      "maxTxPercent": "89.98",
+      "owner": "0x9bf9055c453051ae20d587025590fcd045e355e1",
+      "maxWallet": "38059566017",
+      "maxWalletPercent": "89.98",
+      "wallet": "0.095754 ETH",
+      "created": "2024-06-24 19:11:15.463",
+      "from": "0x0929tufdaa4"
+    },
+    {
+      "id": "3",
+      "date": "2024-06-18 09:11:15.463",
+      "name": "$Trump x.com",
+      "symbol": "xTrump",
+      "contract": "0x72fbbf41d834a65a9a7350db054c681431ffe513",
+      "checkSum": "0x920atuf9828",
+      "stats": [
+        "Socials",
+        "Live"
+      ],
+      "total": "84600000000",
+      "decimal": "18",
+      "method": "Tier 1",
+      "methodId": "Tier 1",
+      "maxTx": "0x0929tufdaa4",
+      "maxTxPercent": "89.98",
+      "owner": "0x7b6ff728fd4a47e6fb73d0c4c23488eedd8c6707",
+      "maxWallet": "38059566017",
+      "maxWalletPercent": "89.98",
+      "wallet": "0.095754 ETH",
+      "created": "2024-06-20 19:11:15.463",
+      "from": "0x0929tufdaa4"
+    },
+    {
+      "id": "4",
+      "date": "2024-06-15 09:11:15.463",
+      "name": "EURO🏆",
+      "symbol": "EURO🏆",
+      "contract": "0x69420ddf6c710bcbca7c88c33f2bdcd250f61ed7",
+      "checkSum": "0x612ftuf1c3f",
+      "stats": [
+        "Socials"
+      ],
+      "total": "84600000000",
+      "decimal": "18",
+      "method": "Tier 1",
+      "methodId": "Tier 1",
+      "maxTx": "0x0929tufdaa4",
+      "maxTxPercent": "89.98",
+      "owner": "0x7b6ff728fd4a47e6fb73d0c4c23488eedd8c6707",
+      "maxWallet": "38059566017",
+      "maxWalletPercent": "89.98",
+      "wallet": "0.095754 ETH",
+      "created": "2024-04-28 09:11:15.463",
+      "from": "0x0929tufdaa4"
+    }
+  ],
+  "users": [
+    {
+      "username": "kresna123",
+      "password": "abcabc",
+      "idTelegram": "qqq",
+      "registerCode": "12345",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9",
+      "id": "1",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149622021.jpg?w=740&t=st=1719420510~exp=1719421110~hmac=f30426365125d90120c5c7c77db865125ccdcdfc932840436ff4eb1ee3be28f4"
+    },
+    {
+      "id": "2",
+      "username": "wijaya123",
+      "password": "wijaya123",
+      "registerCode": "12345",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ8",
+      "id_telegram": "",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149622021.jpg?w=740&t=st=1719420510~exp=1719421110~hmac=f30426365125d90120c5c7c77db865125ccdcdfc932840436ff4eb1ee3be28f4"
+    },
+    {
+      "id": "d1d9",
+      "username": "test123",
+      "password": "test123",
+      "registerCode": "00000",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ7",
+      "id_telegram": "",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149611030.jpg?w=740&t=st=1719420559~exp=1719421159~hmac=309273020938888fd16b78194c4bd3520dc956e617d0fd86b0bc724589d21498"
+    },
+    {
+      "username": "admin",
+      "password": "admin123",
+      "idTelegram": "userxxx",
+      "registerCode": "123",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ7",
+      "id": "43b4",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149611051.jpg?w=740&t=st=1719420584~exp=1719421184~hmac=d0447914f6f4305bba67808a088f27aaa2049f3cd97e4b10665f435ed3cbe193"
+    },
+    {
+      "id": "c582",
+      "username": "alip",
+      "password": "aliprajinsholat",
+      "registerCode": "10ns28",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ7",
+      "id_telegram": "",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149611030.jpg?w=740&t=st=1719420559~exp=1719421159~hmac=309273020938888fd16b78194c4bd3520dc956e617d0fd86b0bc724589d21498"
+    },
+    {
+      "id": "9c1b",
+      "username": "budi",
+      "password": "budibudi",
+      "registerCode": "140972",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ7",
+      "id_telegram": "",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149611030.jpg?w=740&t=st=1719420559~exp=1719421159~hmac=309273020938888fd16b78194c4bd3520dc956e617d0fd86b0bc724589d21498"
+    },
+    {
+      "username": "user",
+      "password": "userxxx",
+      "registerCode": "190929",
+      "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ7",
+      "profilePicture": "https://img.freepik.com/free-vector/hand-drawn-nft-style-ape-illustration_23-2149622021.jpg?w=740&t=st=1719420510~exp=1719421110~hmac=f30426365125d90120c5c7c77db865125ccdcdfc932840436ff4eb1ee3be28f4",
+      "id": "c01b"
+    }
+  ]
+}

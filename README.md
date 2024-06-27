@@ -1,4 +1,5 @@
 # eth-web-app
+![Image description](./readme.png)
 
 ### server
 ```bash
